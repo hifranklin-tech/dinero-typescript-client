@@ -1,6 +1,6 @@
 {
   "name": "dinero-client",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "OpenAPI client for dinero-client",
   "author": "OpenAPI-Generator Contributors",
   "repository": {

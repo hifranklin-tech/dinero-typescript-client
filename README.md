@@ -36,7 +36,7 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install dinero-client@v1 --save
+npm install dinero-client@1.0.0 --save
 ```
 
 _unPublished (not recommended):_
